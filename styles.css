@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #666666;
+  }
+  
+  #screen {
+    background-color: #bbbbbb;
+    width: 800px;
+    height: 600px;
+  }
+#ttitle{
+    width: 100%;
+    text-align: center;
+}
+ 
+
+#leftcolumn{
+    width: max-content;
+    background-color: #bbbbbb;
+}
+
